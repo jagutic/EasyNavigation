@@ -1,0 +1,52 @@
+<map id="easynav_sensors/src/easynav_sensors/types/GNSSPerception.cpp" name="easynav_sensors/src/easynav_sensors/types/GNSSPerception.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1092,5,1253,61"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1220,375,1274,401"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1181,61,1244,359,1239,360,1175,62"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="378,198,532,238"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1092,53,833,112,673,155,534,195,533,190,672,150,832,106,1091,48"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="1100,294,1210,320"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1173,62,1159,279,1154,278,1168,61"/>
+<area shape="rect" id="Node000005" href="$GNSSPerception_8hpp.html" title="Defines data structures and utilities for representing and processing GNSS perceptions." alt="" coords="844,109,1002,150"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="1101,64,990,106,988,101,1099,59"/>
+<area shape="rect" id="Node000022" title=" " alt="" coords="1284,109,1412,150"/>
+<area shape="poly" id="edge28_Node000001_Node000022" title=" " alt="" coords="1224,59,1299,99,1297,104,1222,64"/>
+<area shape="poly" id="edge6_Node000005_Node000002" title=" " alt="" coords="883,152,855,172,834,199,827,218,824,237,826,253,832,269,854,298,888,325,929,348,966,361,1002,366,1036,367,1112,364,1156,366,1205,372,1205,378,1155,371,1112,369,1036,372,1001,371,965,366,927,352,885,329,850,302,827,272,821,255,819,236,822,217,830,196,852,168,880,148"/>
+<area shape="poly" id="edge8_Node000005_Node000003" title=" " alt="" coords="844,147,551,200,547,201,546,196,550,195,843,142"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,375,62,401"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="855,153,77,377,76,372,854,148"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="1077,205,1134,231"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="965,148,1067,196,1065,201,963,153"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="914,286,1076,327"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="966,148,994,168,1016,196,1022,215,1022,235,1013,273,1008,271,1017,235,1017,216,1011,199,990,172,963,152"/>
+<area shape="rect" id="Node000009" href="$Perceptions_8hpp.html" title="Defines data structures and utilities for representing and processing sensor perceptions." alt="" coords="844,198,1002,238"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="926,150,926,182,920,182,920,150"/>
+<area shape="poly" id="edge11_Node000009_Node000002" title=" " alt="" coords="913,240,904,260,897,283,896,306,905,325,926,340,956,351,1038,362,1128,366,1205,373,1205,378,1127,372,1037,367,955,356,923,345,901,329,891,307,891,282,899,258,908,238"/>
+<area shape="poly" id="edge12_Node000009_Node000004" title=" " alt="" coords="976,236,1109,285,1107,290,975,241"/>
+<area shape="poly" id="edge13_Node000009_Node000008" title=" " alt="" coords="941,237,971,273,967,276,937,241"/>
+<area shape="rect" id="Node000010" href="$NavState_8hpp.html" title="A blackboard&#45;like structure to hold the current state of the navigation system." alt="" coords="608,286,769,327"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="871,241,756,283,755,278,869,236"/>
+<area shape="poly" id="edge15_Node000010_Node000002" title=" " alt="" coords="770,321,789,324,904,338,996,345,1088,353,1205,372,1204,377,1088,358,995,350,904,344,788,330,769,327"/>
+<area shape="poly" id="edge19_Node000010_Node000006" title=" " alt="" coords="607,327,589,330,446,345,334,350,221,357,78,377,77,372,220,352,333,345,446,339,588,324,607,321"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="868,375,978,401"/>
+<area shape="poly" id="edge16_Node000010_Node000011" title=" " alt="" coords="748,325,873,367,871,372,746,330"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="1002,375,1105,401"/>
+<area shape="poly" id="edge17_Node000010_Node000012" title=" " alt="" coords="770,323,987,369,986,375,769,328"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="1129,375,1196,401"/>
+<area shape="poly" id="edge18_Node000010_Node000013" title=" " alt="" coords="770,321,789,324,950,346,1023,356,1114,372,1114,377,1022,361,950,352,788,330,769,326"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="86,375,163,401"/>
+<area shape="poly" id="edge20_Node000010_Node000014" title=" " alt="" coords="607,327,589,330,475,344,385,352,294,361,179,377,178,372,294,356,384,347,474,339,588,324,607,321"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="187,375,256,401"/>
+<area shape="poly" id="edge21_Node000010_Node000015" title=" " alt="" coords="607,326,589,330,431,352,271,377,270,372,430,346,588,324,606,321"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="280,375,361,401"/>
+<area shape="poly" id="edge22_Node000010_Node000016" title=" " alt="" coords="607,328,376,377,375,372,606,322"/>
+<area shape="rect" id="Node000017" title=" " alt="" coords="384,375,456,401"/>
+<area shape="poly" id="edge23_Node000010_Node000017" title=" " alt="" coords="622,330,471,374,470,369,620,325"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="480,375,558,401"/>
+<area shape="poly" id="edge24_Node000010_Node000018" title=" " alt="" coords="647,330,560,371,557,366,645,325"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="582,375,661,401"/>
+<area shape="poly" id="edge25_Node000010_Node000019" title=" " alt="" coords="674,329,644,364,640,361,670,326"/>
+<area shape="rect" id="Node000020" title=" " alt="" coords="686,375,752,401"/>
+<area shape="poly" id="edge26_Node000010_Node000020" title=" " alt="" coords="698,326,711,359,706,361,693,328"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="776,375,843,401"/>
+<area shape="poly" id="edge27_Node000010_Node000021" title=" " alt="" coords="720,325,780,364,777,369,717,330"/>
+</map>
